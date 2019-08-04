@@ -1,3 +1,3 @@
 # Open Minds Group Portugal...
 
-#Suporte: suporte@sipadm.com
+Suporte: suporte@sipadm.com
